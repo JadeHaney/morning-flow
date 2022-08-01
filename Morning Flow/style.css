@@ -1,0 +1,50 @@
+header {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: navy;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+a:link {color:bisque}
+a:hover {color:lightskyblue}
+a:visited {color: bisque}
+a:active {color: lightseagreen}
+
+nav {
+    word-spacing: 100px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+main {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 17px;      
+}
+
+img {
+    width: 450px;
+}
+
+.image-circle {
+    border-radius: 50%; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    color: navy;
+    background-color: skyblue;
+}
+
+footer {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: navy;
+    padding: 20px;
+    text-align: center;
+}
